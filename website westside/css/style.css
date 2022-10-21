@@ -1,0 +1,52 @@
+.top {
+   height: 50px;
+   font-size: 24px;
+   Background-color: lightblue;
+   text-align: center;
+}
+.topnav {
+   background-color:white;
+   overflow: hidden;
+}
+
+.topnav a { 
+   color:white;
+   text-aling: right;
+   font-size: 17px; 
+   padding: 14px 16px
+   height: 35px;
+ 
+
+}
+.topnav a:hover {
+    background-color: white;
+    color: black;
+    height: 40px;
+}
+.topnav a.active {
+  background-color: white;
+  color: white;
+}
+p{
+  text-align: center;
+  font-size: 25px;
+  font-family: Ariel;
+  color: white;
+ }
+
+.nav {
+   color: white;
+   Font-size: 25px;
+   text-align: left; 
+   background-color: lightblue;
+   padding:1px;  
+}
+.h1,
+h2,
+h3,
+h4,
+h5 {
+  color: white;
+ font-size: 15px;
+  font-family: Ariel heading;
+ font-weight: thick;
